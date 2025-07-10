@@ -11,8 +11,6 @@ Features user registration, login, JWT authentication, email verification, passw
 |---------------------------------------- |-----------------------------------------|
 | ![Home](./frontend/src/assets/Home.png) | ![Login](./frontend/src/assets/Loginn.png) |
 
-- **Home image:** `src/assets/Home.png`
-- **Login image:** `src/assets/Loginn.png`
 
 ---
 
