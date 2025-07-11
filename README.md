@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-# AUTHENTICATION SYSTEM USING MERN
+<h1 align="center"> AUTHENTICATION SYSTEM USING MERN </h1>
 
 A full-stack authentication system built with the MERN stack (MongoDB, Express, React, Node.js).  
 Features user registration, login, JWT authentication, email verification, password reset, and protected routes.
